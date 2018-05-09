@@ -9,6 +9,6 @@
     { "id": 2, "user": "user 2", "learningId": 1 }
   ],
   "learningActions": [
-    {"learningId": 3, "user": "user 1", "status": "completed"}
+    {"id": 1, "learningId": 3, "user": "user 1", "status": "completed"}
   ]
 }
